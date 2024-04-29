@@ -1,8 +1,8 @@
 // Tabs menu event listener
-tabs.forEach((tab) => tab.addEventListener("click", onTabClick));
+// tabs.forEach((tab) => tab.addEventListener("click", onTabClick));
 
 // Hamburger button listener
-btn.addEventListener("click", navToggle);
+// btn.addEventListener("click", navToggle);
 
 function onTabClick(e) {
   // Deactivate all tabs
